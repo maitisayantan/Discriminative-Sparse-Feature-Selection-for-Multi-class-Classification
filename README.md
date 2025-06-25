@@ -1,0 +1,2 @@
+# Discriminative-Sparse-Feature-Selection-for-Multi-class-Classification
+In this project, multi-class feature selection is addressed using a novel approach called Sparse Softmax Feature Selection (S2FS). Softmax classification is combined with L2,0 norm regularization and LDA-based discriminative regularization to select relevant, sparse, and uncorrelated features, enhancing classification accuracy.
